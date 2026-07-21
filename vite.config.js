@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/guess-the-what/",
+  base: "/30-day-Challenge-day-9/",
 });
